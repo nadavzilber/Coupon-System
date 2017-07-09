@@ -3,7 +3,7 @@
 Coupon System allows companies to create custom made coupons. Then, logged in customers can purchase coupons. The system will log all the different actions that companies and customers can make.
 
 The project contains 2 parts:
-* Part 1 - The core of the system. This is layer is responsible for receiving, storing and managing data in the Database. 
+* Part 1 - The core of the system. This layer is responsible for receiving, storing and managing data in the Database. 
 * Part 2 - The front-end of the system. This layer exposes the Coupon Manager to the web and allows users to access the different functions.
 
 INSTRUCTIONS: In order to run the project, you need to do the following-
