@@ -1,4 +1,4 @@
-# Coupon-System
+# Coupon-System-Web
 --------------------------------
 Coupon System allows companies to create custom made coupons. Then, logged in customers can purchase coupons. The system will log all the different actions that companies and customers can make.
 
